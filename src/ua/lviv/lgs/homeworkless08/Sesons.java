@@ -1,8 +1,8 @@
 package ua.lviv.lgs.homeworkless08;
 
 public enum Sesons {
-    ЗИМА,
-    ВЕСНА,
-    ЛІТО,
-    ОСІНЬ;
+    WINTER,
+    SPRING,
+    SUMMER,
+    AUTUMN;
 }
